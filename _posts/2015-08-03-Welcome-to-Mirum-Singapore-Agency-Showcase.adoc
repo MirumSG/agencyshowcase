@@ -6,20 +6,13 @@
 video::KCylB780zSM[youtube]
 _italic phrase_
 
-__i__talic le__tt__ers
+![Small](https://farm6.staticflickr.com/5493/14496162345_872e58358f_m.jpg#small)
+![Normal](https://farm6.staticflickr.com/5534/14492781111_042ae8b40d_c.jpg)
+![Large](https://farm3.staticflickr.com/2934/14050612097_57c8dab90c_b.jpg#large)
+![Full](https://farm8.staticflickr.com/7230/13836614065_866c50b9d0_k.jpg#full)
 
-*bold phrase*
-
-**b**old le**tt**ers
-
-*_bold italic phrase_*
-
-**__b__**old italic le**__tt__**ers
-
-`monospace phrase` and le``tt``ers
-
-`_monospace italic phrase_` and le``__tt__``ers
-
-`*monospace bold phrase*` and le``**tt**``ers
-
-`*_monospace bold italic phrase_*` and le``**__tt__**``ers
+Photo Gallery:
+  ![](http://photos-c.ak.instagram.com/hphotos-ak-xap1/10299624_651870351533978_698775745_n.jpg)
+  ![](http://photos-h.ak.instagram.com/hphotos-ak-xpa1/10349783_1421830468085423_1781757588_n.jpg)
+  ![](http://photos-f.ak.instagram.com/hphotos-ak-xpf1/10326473_685992338134029_1330967718_n.jpg)
+  ![](http://photos-g.ak.instagram.com/hphotos-ak-xpa1/10349270_623564424403646_1080162466_n.jpg)
