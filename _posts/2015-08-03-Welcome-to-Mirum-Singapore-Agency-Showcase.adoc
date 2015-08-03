@@ -3,9 +3,6 @@
 :hp-tags: HubPress, Blog, Open Source
 
 
-video::KCylB780zSM[youtube]
-_italic phrase_
-
 ![Small image](https://farm6.staticflickr.com/5493/14496162345_872e58358f_m.jpg#small)
 ![Normal image](https://farm6.staticflickr.com/5534/14492781111_042ae8b40d_c.jpg)
 ![Large image](https://farm3.staticflickr.com/2934/14050612097_57c8dab90c_b.jpg#large)
