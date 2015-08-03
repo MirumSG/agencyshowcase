@@ -1,1 +1,3 @@
 = Welcome to Mirum Singapore Agency Showcase
+:published_at: 2015-08-03
+:hp-tags: HubPress, Blog, Open Source
