@@ -2,18 +2,15 @@
 :published_at: 2015-08-03
 :hp-tags: HubPress, Blog, Open Source
 
-= Small Image
+== Small Image
 image::https://farm6.staticflickr.com/5493/14496162345_872e58358f_m.jpg#small[small]
-= Normal Image
+== Normal Image
 image::https://farm6.staticflickr.com/5534/14492781111_042ae8b40d_c.jpg[Normal]
-= Large Image
+== Large Image
 image::https://farm3.staticflickr.com/2934/14050612097_57c8dab90c_b.jpg#large[Large]
-= Full width Image
+== Full width Image
 image::https://farm8.staticflickr.com/7230/13836614065_866c50b9d0_k.jpg#full[Full]
 
 
-= Photo Gallery
-image::http://photos-c.ak.instagram.com/hphotos-ak-xap1/10299624_651870351533978_698775745_n.jpg[Gallery 1]
-image::http://photos-h.ak.instagram.com/hphotos-ak-xpa1/10349783_1421830468085423_1781757588_n.jpg[Gallery 2]
-image::http://photos-f.ak.instagram.com/hphotos-ak-xpf1/10326473_685992338134029_1330967718_n.jpg[Gallery 3]
-image::http://photos-g.ak.instagram.com/hphotos-ak-xpa1/10349270_623564424403646_1080162466_n.jpg[Gallery 4]
+=== Photo Gallery
+image::http://photos-c.ak.instagram.com/hphotos-ak-xap1/10299624_651870351533978_698775745_n.jpg[Gallery 1] image::http://photos-h.ak.instagram.com/hphotos-ak-xpa1/10349783_1421830468085423_1781757588_n.jpg[Gallery 2] image::http://photos-f.ak.instagram.com/hphotos-ak-xpf1/10326473_685992338134029_1330967718_n.jpg[Gallery 3] image::http://photos-g.ak.instagram.com/hphotos-ak-xpa1/10349270_623564424403646_1080162466_n.jpg[Gallery 4]
