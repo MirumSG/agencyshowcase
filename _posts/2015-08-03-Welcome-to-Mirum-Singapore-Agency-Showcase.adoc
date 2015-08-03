@@ -2,11 +2,8 @@
 :published_at: 2015-08-03
 :hp-tags: HubPress, Blog, Open Source
 
+image::https://farm6.staticflickr.com/5493/14496162345_872e58358f_m.jpg[]
 
-![Small image](https://farm6.staticflickr.com/5493/14496162345_872e58358f_m.jpg#small)
-![Normal image](https://farm6.staticflickr.com/5534/14492781111_042ae8b40d_c.jpg)
-![Large image](https://farm3.staticflickr.com/2934/14050612097_57c8dab90c_b.jpg#large)
-![Full image](https://farm8.staticflickr.com/7230/13836614065_866c50b9d0_k.jpg#full)
 
 Photo Gallery:
   ![](http://photos-c.ak.instagram.com/hphotos-ak-xap1/10299624_651870351533978_698775745_n.jpg)
