@@ -4,7 +4,7 @@
 
 
 
-video::[48UgQmvq8VA][youtube]
+video::48UgQmvq8VA[youtube]
 
 == Small Image
 image::https://farm6.staticflickr.com/5493/14496162345_872e58358f_m.jpg#small[small]
