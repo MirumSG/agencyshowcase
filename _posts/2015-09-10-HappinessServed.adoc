@@ -1,5 +1,5 @@
 = #HappinessServed:)
-:hp-image: https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/555777_10153135926770106_1596626106_n.jpg?oh=27590f9fa34852f44afd5f53f5f6e68c&oe=5676E338&__gda__=1449805397_37547ec610c533125ef6a752c999cbce
+:hp-image: http://www.jwt.com/blog/wp-content/uploads/2013/09/sg-celebrating-great-service1-300x280.png
 
 
 
