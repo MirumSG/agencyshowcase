@@ -1,8 +1,9 @@
 = Welcome to Mirum Singapore Agency Showcase
+:hp-image: https://farm3.staticflickr.com/2934/14050612097_57c8dab90c_b.jpg#large
 :published_at: 2015-08-03
 :hp-tags: HubPress, Blog, Open Source
 
-:hp-image: https://farm3.staticflickr.com/2934/14050612097_57c8dab90c_b.jpg#large
+
 
 video::48UgQmvq8VA[youtube]
 
