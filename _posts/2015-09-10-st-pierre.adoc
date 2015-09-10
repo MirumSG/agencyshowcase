@@ -1,2 +1,4 @@
 = st-pierre
 :hp-image: http://www.agency-showcase.com/st-pierre/images/stpierre-masthead.jpg
+
+image::http://www.agency-showcase.com/st-pierre/images/stpierre-collaterals.jpg
