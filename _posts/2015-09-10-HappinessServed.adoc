@@ -1,5 +1,6 @@
 = #HappinessServed:)
-:hp-image: http://www.jwt.com/blog/wp-content/uploads/2013/09/sg-celebrating-great-service1-300x280.png
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870435/6254401c-5bbe-11e5-8f7a-2eaf9c98f48b.png
+
 
 video::Ph8gBhvMqAM[youtube]
 
