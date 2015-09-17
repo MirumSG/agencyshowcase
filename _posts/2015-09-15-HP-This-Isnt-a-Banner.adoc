@@ -1,7 +1,7 @@
 = HP - This Isn't a Banner
 :hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
 
-
+:hp-tags: HP, banner
 
 
 
