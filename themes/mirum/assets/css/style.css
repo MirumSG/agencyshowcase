@@ -655,7 +655,7 @@ body {
     font-size: 1.2rem;
     text-transform: uppercase;
     -webkit-animation-delay: 1s;
-    animation-delay: 1s
+    animation-delay: 1s;
     background: url(../images/mirum_cred_03.jpg) no-repeat;
 }
 #footer .colophon {
