@@ -413,6 +413,9 @@ body {
     box-sizing: border-box;
     padding: 0 20px;
     color: #999
+    background: url(../../../../images/mirum_cred_03.jpg) no-repeat center center;
+    background-size: cover;
+    height: 480px;
 }
 .home-template #header .blog-content a,
 .archive-template #header .blog-content a {
