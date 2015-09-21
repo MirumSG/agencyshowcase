@@ -770,7 +770,7 @@ body {
         height: 700px;
     }
 
-    #header .blog-content{
+    .home-template #header .blog-content{
         height: 700px;
     }
     #header .header-content h1 {
