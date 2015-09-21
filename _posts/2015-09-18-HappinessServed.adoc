@@ -1,5 +1,5 @@
-= Happiness Served
-:hp-image: https://cloud.githubusercontent.com/assets/14326240/9954341/ce4ee3cc-5e1a-11e5-9e59-ab1d26416b58.jpg
+= #HappinessServed:)
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870435/6254401c-5bbe-11e5-8f7a-2eaf9c98f48b.png
 :hp-tags: STB,campaign
 
 Client: Singapore Tourism Board +
