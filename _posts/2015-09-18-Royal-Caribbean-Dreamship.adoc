@@ -1,6 +1,5 @@
 = Royal Caribbean Dreamship
-:hp-image: https://cloud.githubusercontent.com/assets/14326240/9985596/4534a4de-6061-11e5-92fc-51df6d6127e8.jpg
-:hp-tags: RCI,campaign
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9987012/8ec8bb8a-6075-11e5-8fd4-3e5db3422f7e.jpg
 
 Client: Royal Caribbean Dreamship
 
