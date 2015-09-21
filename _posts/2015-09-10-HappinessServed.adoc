@@ -1,10 +1,8 @@
 = #HappinessServed:)
 :hp-image: https://cloud.githubusercontent.com/assets/1509874/9870435/6254401c-5bbe-11e5-8f7a-2eaf9c98f48b.png
 
-image::https://cloud.githubusercontent.com/assets/1509874/9870485/de46af70-5bbe-11e5-9511-3373ea6c0c96.png[Large]
 
-
-video::Ph8gBhvMqAM[youtube]
+video::YqZTw2EXlIk[youtube]
 
 == The Challenge 
 Service levels in Singapore have not been up to standard in the eyes of Singaporeans and education about the benefits of what great service can do for businesses has not seemed to spark positive change on their end. 
