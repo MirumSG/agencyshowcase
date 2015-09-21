@@ -1,5 +1,5 @@
 = YourSingapore Mobile App
-:hp-image: stb_mobile_1280x670](https://cloud.githubusercontent.com/assets/14326240/9985551/8a695d48-6060-11e5-937f-e0547d79c7e2.jpg
+:hp-image:https://cloud.githubusercontent.com/assets/14326240/9985551/8a695d48-6060-11e5-937f-e0547d79c7e2.jpg
 :hp-tags: STB
 
 Client: Singapore Tourism Board
