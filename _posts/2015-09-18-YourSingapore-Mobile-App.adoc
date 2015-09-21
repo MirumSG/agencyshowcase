@@ -1,0 +1,39 @@
+= YourSingapore Mobile App
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
+:hp-tags: STB
+
+Client: Singapore Tourism Board
+
+== The Challenge 
+How do you help a visitor get the most out of their travel experience in a country? Especially in Singapore, where there is a huge concentration of things to see and do.
+
+== The Insight 
+No matter how much preparation a visitor makes before travelling to another country, he or she would never be as familiar with the country as a local would.
+
+== The Idea 
+Create an app that empowers visitors with a sense of familiarity when getting around Singapore. The YourSingapore Guide Mobile is powered by a rich plethora of information on things to see and do. Sorted by personal interests, it allows visitors to quickly find the information they need. Intelligent directions are also provided to help visitors get to where they want in the quickest time. Bearing in mind most visitors could be unfamiliar with the city, the app also lets them easily discover what's there to see and do around them through geo-located recommendations. These features, and more, dramatically help reduce time wasted on figuring out how to get around Singapore.
+
+More than a map, the YourSingapore Guide is a know-it-all travel companion that visitors can always turn to at a drop of the hat to make their visit here a fruitful experience.
+
+=== Categorized Sorting
+image::https://cloud.githubusercontent.com/assets/14326240/9955638/384db938-5e25-11e5-9c90-14be387689e8.png[Large]
+Things to see and do are sorted based on personal interests to help visitors personalize their vacation easily.
+
+=== Intelligent Maps
+image::https://cloud.githubusercontent.com/assets/14326240/9955653/5773f6ec-5e25-11e5-972a-5444ddd1744d.png[Large]
+Effortless directions are provided to help visitors get to anywhere they want in Singapore. They may also call a taxi straight from the app.
+
+=== Bookmarks for Easy Planning
+image::https://cloud.githubusercontent.com/assets/14326240/9955660/670f6794-5e25-11e5-85e5-e45dbb735a9b.png[Large]
+If visitors come across something they like, they may bookmark it and visit the place later.
+
+=== Updated Information Everyday
+image::https://cloud.githubusercontent.com/assets/14326240/9955665/7027772c-5e25-11e5-8e9c-0ea07f367268.png[Large]
+With something new going on in Singapore every day, the YourSingapore Guide is constantly updated with real-time information about the latest events.
+
+=== Download links
+image::https://cloud.githubusercontent.com/assets/14326240/9955672/7cda3df6-5e25-11e5-9a4a-aee45ad83c1d.png[Large]
+link:http://itunes.apple.com/sg/app/yoursingapore-guide-singapore/id437411162?mt=8[From the Apple store]
+
+image::https://cloud.githubusercontent.com/assets/14326240/9955684/8ce82e92-5e25-11e5-8ef8-24f8932209c1.png[Large]
+link:https://market.android.com/details?id=sg.codigo.yoursingapore[From the Android store]
