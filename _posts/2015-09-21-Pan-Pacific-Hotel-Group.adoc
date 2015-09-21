@@ -13,7 +13,7 @@ Pan Pacific Hotel Group is a leading hospitability group that manages 2 brands �
 * New websites will use Adobe AEM 5.5
 
 == Mirum's Role
-Mirum designed, developed and built Pan Pacific and Park Royal’s corporate websites. The agency’s delivery includes:
+Mirum designed, developed and built Pan Pacific and Park Royal's corporate websites. The agency's delivery includes:
 * information architecture
 * user experience design
 * creative design
