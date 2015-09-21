@@ -396,7 +396,7 @@ body {
 }
 .home-template #header,
 .archive-template #header {
-    height: 60px;
+    /*height: 60px;*/
     position: relative;
     background: #FFF
 }
@@ -412,11 +412,14 @@ body {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     padding: 0 20px;
-    color: #999
+    color: #999;
+    background: url(../../../../images/mirum_cred_01.jpg) no-repeat center center;
+    background-size: cover;
+    height: 480px;
 }
 .home-template #header .blog-content a,
 .archive-template #header .blog-content a {
-    color: #999
+    color: #fff;
 }
 .home-template #header .blog-content a:hover,
 .archive-template #header .blog-content a:hover {
@@ -658,9 +661,10 @@ body {
     animation-delay: 1s;
     height: 280px;
     background: url(../../../../images/mirum_cred_03.jpg) no-repeat center center;
+    background-size: cover;
 }
 #footer .colophon {
-    padding: 178px 20px 50px 20px;
+    padding: 50px 20px;
     max-width: 600px;
     margin: 0 auto;
     text-align: right;
@@ -725,7 +729,7 @@ body {
         display: block
     }
     #header {
-        height: 600px
+        /*height: 600px*/
     }
     #header .header-content h1 {
         font-size: 55px;
@@ -763,7 +767,11 @@ body {
         background-position: center
     }
     #header {
-        height: 700px
+        height: 700px;
+    }
+
+    .home-template #header .blog-content{
+        height: 700px;
     }
     #header .header-content h1 {
         font-size: 55px;
