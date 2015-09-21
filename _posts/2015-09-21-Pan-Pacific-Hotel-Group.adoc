@@ -24,6 +24,7 @@ Mirum designed, developed and built Pan Pacific and Park Royal’s corporate web
 * website updates
 * analytics reporting
 * translation implementation  
+
 Pan Pacific Hotel Group is now fronted by corporate websites befitting of its stature as industry leaders. The upgrade and move to Adobe AEM led to implementation of more defined tracking metrics and ease of updates.
 
 link:https://www.panpacific.com[Visit the Pan Pacific Site]
