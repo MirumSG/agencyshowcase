@@ -2,7 +2,7 @@
 :hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
 :hp-tags: GBB,sitebuilt
 
-image::https://cloud.githubusercontent.com/assets/14326240/9985401/0fdeae7c-605e-11e5-9977-1b8e156644e1.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9985401/0fdeae7c-605e-11e5-9977-1b8e156644e1.png[Normal]
 
 == The Objective
 Singapore’s latest attraction, Gardens by the Bay, was unveiled to great fanfare. Besides captivating visitors with many wonders at the Gardens itself, Gardens by the Bay also wanted to engage potential visitors on the digital sphere. The challenge was to create a similar sense of wonder that will encourage online users to discover and share about the Gardens. 
