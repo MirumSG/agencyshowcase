@@ -658,6 +658,7 @@ body {
     animation-delay: 1s;
     height: 280px;
     background: url(../../../../images/mirum_cred_03.jpg) no-repeat center center;
+    background-size: cover;
 }
 #footer .colophon {
     padding: 50px 20px;
