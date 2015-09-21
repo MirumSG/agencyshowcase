@@ -1,0 +1,33 @@
+= Pan Pacific Hotel Group
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
+:hp-tags: PPHG
+
+image::https://cloud.githubusercontent.com/assets/14326240/9985356/3641b772-605d-11e5-9cc6-5a7cbcdbadf6.png[Large]
+
+== Client Background
+Pan Pacific Hotel Group is a leading hospitability group that manages 2 brands – Pan Pacific and Park Royal, with hotels, resorts and service apartments under their portfolio. PPHG’s properties are based across Australia and Asia.
+
+== The Objective
+* To design and build completely new corporate websites for Pan Pacific and Park Royal
+* New websites are desktop and mobile compatible
+* New websites will use Adobe AEM 5.5
+
+== Mirum's Role
+Mirum designed, developed and built Pan Pacific and Park Royal’s corporate websites. The agency’s delivery includes:
+* information architecture
+* user experience design
+* creative design
+* system architecture, design and set up
+* application design and development
+* content development
+* website and database maintenance
+* website updates
+* analytics reporting
+* translation implementation  
+Pan Pacific Hotel Group is now fronted by corporate websites befitting of its stature as industry leaders. The upgrade and move to Adobe AEM led to implementation of more defined tracking metrics and ease of updates.
+
+link:https://www.panpacific.com[Visit the Pan Pacific Site]
+link:https://www.parkroyalhotels.com[Visit the Park Royal Site]
+link:m.panpacific.com[Visit the Pan Pacific Mobile Site]
+link:m.parkroyalhotels.com[Visit the Pan Pacific Mobile Site]
+
