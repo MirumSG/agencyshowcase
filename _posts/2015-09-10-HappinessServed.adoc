@@ -1,5 +1,6 @@
 = #HappinessServed:)
 :hp-image: https://cloud.githubusercontent.com/assets/1509874/9870435/6254401c-5bbe-11e5-8f7a-2eaf9c98f48b.png
+:hp-tags: STB
 
 
 video::YqZTw2EXlIk[youtube]
