@@ -1,6 +1,6 @@
 = Soyjoy
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/9957151/6d8f3468-5e30-11e5-9488-db606e2f4930.jpg
-:hp-tags: Soyjoy
+:hp-tags: Soyjoy,campaign,mobile,facebook
 
 Client: Soyjoy
 
