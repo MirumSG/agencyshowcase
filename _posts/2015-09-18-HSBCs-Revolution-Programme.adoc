@@ -1,5 +1,5 @@
 = HSBC's Revolution Programme
-:hp-image: https://cloud.githubusercontent.com/assets/14326240/9957261/3a129750-5e31-11e5-9dc4-0642c921422f.jpg
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9987241/7046631c-6078-11e5-83bc-3e7b8a8f1281.jpg
 :hp-tags: HSBC,campaign
 
 Client: HSBC Singapore +
