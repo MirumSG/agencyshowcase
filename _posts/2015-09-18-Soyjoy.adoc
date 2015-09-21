@@ -7,7 +7,7 @@ Client: Soyjoy
 image::https://cloud.githubusercontent.com/assets/14326240/9955940/406abd9e-5e27-11e5-8200-566e5f55fecd.png[Large]
 image::https://cloud.githubusercontent.com/assets/14326240/9955942/437e1738-5e27-11e5-9351-4e2970dbbc93.png[Large]
 
-video::BVwAVbKYYeM[youtube]
+video::Lo5aleT4o9U[youtube]
 
 == The Challenge 
 SoyJoy is a healthy soy snack bar for everyone to enjoy without feeling the guilt. Its brand purpose is to make staying healthy feel fun and easy. 
@@ -40,3 +40,4 @@ link:http://agency-showcase.com/soyjoy/pop.html[P.O.P]
 image::https://cloud.githubusercontent.com/assets/14326240/9955999/aafaf82c-5e27-11e5-86df-cb6989ad23fc.png[Large]
 link:http://agency-showcase.com/soyjoy/sticker.html[Sticker on Pack]
 
+http://mirumsg.github.io/agencyshowcase/hubpress/#/posts
