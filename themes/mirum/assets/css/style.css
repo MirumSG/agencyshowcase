@@ -663,7 +663,8 @@ body {
 #footer .colophon {
     padding: 50px 20px;
     max-width: 600px;
-    margin: 0 auto
+    margin: 0 auto;
+    text-align: right;
 }
 #footer .colophon section {
     margin: 10px 0
