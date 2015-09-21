@@ -767,7 +767,11 @@ body {
         background-position: center
     }
     #header {
-        height: 700px
+        height: 700px;
+    }
+
+    #header .blog-content{
+        height: 700px;
     }
     #header .header-content h1 {
         font-size: 55px;
