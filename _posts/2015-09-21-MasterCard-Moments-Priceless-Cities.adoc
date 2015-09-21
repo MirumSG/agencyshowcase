@@ -1,6 +1,6 @@
 = MasterCard Moments / Priceless Cities
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/9985208/cf000d46-6059-11e5-87df-db0e6f5d1195.jpg
-:hp-tags: MasterCard
+:hp-tags: MasterCard,sitebuilt
 
 image::https://cloud.githubusercontent.com/assets/14326240/9985221/22905498-605a-11e5-9aca-151027ce5b7f.png[Large]
 
