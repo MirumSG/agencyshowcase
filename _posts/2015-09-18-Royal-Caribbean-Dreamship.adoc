@@ -1,0 +1,23 @@
+= Royal Caribbean Dreamship
+:hp-image: https://cloud.githubusercontent.com/assets/14326240/9954041/496bf476-5e18-11e5-955d-6b0a79051045.jpg[Large]
+:hp-tags: RCI
+
+Client: Royal Caribbean Dreamship
+
+image::https://cloud.githubusercontent.com/assets/14326240/9957364/da6900f4-5e31-11e5-967a-13076fd96002.jpg[Large]
+
+== The Challenge 
+In line with Royal Caribbean Cruise's global campaign, The Nation of Why Not, we were tasked to create awareness about the exciting experiences one will get on our cruise liners.
+
+== The Insight 
+When it comes to creating new-to-the-world experiences onboard Royal Caribbean cruise liners, the first question to always ask is "Why Not"?
+
+== The Idea 
+So we dramatized this notion and created an interactive and fun branded game called The Dreamship, where users can build their own cruise liner filled with experiences one could only dream of. Imagine going on safari tours, rollercoaster rides, ice skating adventures and hot air balloon rides while cruising the seas. Simply put, you can create virtually any cruise vacation you like with Dreamship.
+
+== The Results 
+What got the public interested in this campaign was the opportunity to bring their fantasy cruise vacation to life. We also made them feel like owners of the campaign by involving them in the judging process via voting. At the end of this 2-month campaign, the creator of the winning Dreamship walked away with a cruise vacation for two. 
+
+Dreamship wielded impressive results, chalking up a total of 62,000 unique visits with 1,896 Dreamships created. A healthy 16.9% bounce rate indicated that most visitors to the site were engaged in the activity.
+
+link:http://www.royalcaribbean-asia.com/dreamship/index.aspx#/home[Vist Site]
