@@ -1,10 +1,10 @@
 = Royal Caribbean Dreamship
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/9985596/4534a4de-6061-11e5-92fc-51df6d6127e8.jpg
-:hp-tags: RCI
+:hp-tags: RCI,campaign
 
 Client: Royal Caribbean Dreamship
 
-image::https://cloud.githubusercontent.com/assets/14326240/9957364/da6900f4-5e31-11e5-967a-13076fd96002.jpg[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9957364/da6900f4-5e31-11e5-967a-13076fd96002.jpg[small]
 
 == The Challenge 
 In line with Royal Caribbean Cruise's global campaign, The Nation of Why Not, we were tasked to create awareness about the exciting experiences one will get on our cruise liners.
