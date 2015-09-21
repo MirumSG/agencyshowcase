@@ -1,5 +1,5 @@
 = Malaysia Airlines
-:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
+:hp-image: https://cloud.githubusercontent.com/assets/14326240/9985598/4c15b73e-6061-11e5-98cb-909bcbf5d0e2.jpg
 :hp-tags: Malaysia Airlines
 
 Client: Malaysia Airlines +
