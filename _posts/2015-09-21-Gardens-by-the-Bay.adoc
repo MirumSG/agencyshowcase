@@ -1,7 +1,13 @@
-= Test2
+= Gardens by the Bay
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
+:hp-tags: GBB
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus sequi eveniet, quos laboriosam veritatis </p>
+image::https://cloud.githubusercontent.com/assets/14326240/9985401/0fdeae7c-605e-11e5-9977-1b8e156644e1.png[Large]
 
-== hello world
-=== Testing
-==== Testing2
+== The Objective
+Singapore’s latest attraction, Gardens by the Bay, was unveiled to great fanfare. Besides captivating visitors with many wonders at the Gardens itself, Gardens by the Bay also wanted to engage potential visitors on the digital sphere. The challenge was to create a similar sense of wonder that will encourage online users to discover and share about the Gardens. 
+
+== Mirum's Role
+Inspired by the symbiotic relationship between technology and nature, Mirum designed a portal with a personality to reflect a sense of life made up of wonders that never cease to amaze. Built on Adobe’s AEM with integration to Google Analytics, the portal was a hit, like bees to honey. It acquired 5,000 subscribers in no time and saw close to 750,000 site visits within 6 months. On the social front, a Facebook page was created to drive greater awareness of the Gardens and it saw over 10,000 fans joining soon after.
+
+link:http://www.gardensbythebay.com.sg/[Vist Site]
