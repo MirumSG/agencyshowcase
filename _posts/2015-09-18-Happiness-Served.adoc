@@ -26,4 +26,4 @@ link:https://www.facebook.com/events/403637549735851/[Visit the Facebook fan pag
 link:http://instagram.com/happinessserved[Visit the Instagram page]
 
 == Campaign Assets (Collaterals)
-image::https://cloud.githubusercontent.com/assets/14326240/9954381/11493a56-5e1b-11e5-9a93-04133e7916fb.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9954381/11493a56-5e1b-11e5-9a93-04133e7916fb.png[Normal]
