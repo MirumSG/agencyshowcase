@@ -12,7 +12,7 @@ How does a bank reach out to today’s group of young adults, professionals and 
 link:http://agency-showcase.com/hsbc/hsbcRevolution.html#[Visit Campaign Site]
 
 == Campaign Results
-image::https://cloud.githubusercontent.com/assets/14326240/9957304/61d08982-5e31-11e5-8fae-f5422da8c6e1.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9957304/61d08982-5e31-11e5-8fae-f5422da8c6e1.png[Small]
 The online advertising created: +
 - The number of sign-ups was more than 8 times the daily average. +
 - A 4-fold increase in the number of visitors. +
