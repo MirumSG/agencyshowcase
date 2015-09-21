@@ -396,7 +396,7 @@ body {
 }
 .home-template #header,
 .archive-template #header {
-    height: 60px;
+    /*height: 60px;*/
     position: relative;
     background: #FFF
 }
@@ -413,7 +413,7 @@ body {
     box-sizing: border-box;
     padding: 0 20px;
     color: #999;
-    background: url(../../../../images/mirum_cred_03.jpg) no-repeat center center;
+    background: url(../../../../images/mirum_cred_01.jpg) no-repeat center center;
     background-size: cover;
     height: 480px;
 }
