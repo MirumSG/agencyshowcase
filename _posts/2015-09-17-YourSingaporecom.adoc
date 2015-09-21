@@ -17,7 +17,6 @@ Hence, *yoursingapore.com* needed to evolve from a one-size-fits-all directory o
 = The Insight
 As our target audience seek different types of content from various platforms at each stage of their travel planning, the potential of *yoursingapore.com* would be best optimised during the travel planning stage by providing content to engage, validate and inform prior to booking. It would hence become a secondary source to validate and crystallise travel plans delivered through multiple POVs – or ‘voices’ that connect STB with their target audience rather than create and push.
 
-
 = The Idea
 Like music, we focused on key elements that everyone could relate to such as colours, textures and icons, and distilled them into active experiences to drive emotions and participation. Ultimately, we wanted the new *yoursingapore.com* to be a personal, engaging and genuine experience for users.
 
@@ -29,6 +28,5 @@ We saw a significant 19% increase of site traffic generated from social networks
 The KPIs of the new site focused strongly on visitor engagement and visitor advocacy. Visitor engagement measures the interactions visitors have on the site in terms of click-throughs to deeper content tiles and performing activities like site search and downloads. Visitor advocacy measured the number of times visitors share *yoursingapore.com* content on their social platforms as well as interaction on STB’s and partners’ social platforms. Since site launch, visitor engagement increased by 164% and visitor advocacy increased by 99% compared to the old site. 
 
 To increase discovery and facilitate ease of use, a dedicated mobile site was also developed to optimise the functionality, readability and loading time for users.
-
 
 link:http://www.yoursingapore.com[Vist Site]
