@@ -25,19 +25,19 @@ We created an integrated campaign for women to experience what short breaks coul
 It promotes taking short 2-minute breaks to enjoy a bar of SoyJoy and play an addictive mobile game or a brain-teasing Facebook game hosted by a quirky Japanese man called Oba. The games are pre-programmed with bonus rounds which come on during snack times and are activated with special codes on every SoyJoy pack to reveal special videos of Oba.
 
 == View them now:
-image::https://cloud.githubusercontent.com/assets/14326240/9955992/a27b2104-5e27-11e5-8277-778b26c9db71.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9955992/a27b2104-5e27-11e5-8277-778b26c9db71.png[small]
 link:http://www.youtube.com/user/SOYJOYSG[Viral Video]
 
-image::https://cloud.githubusercontent.com/assets/14326240/9955993/a4670d66-5e27-11e5-96d5-01afa978f39c.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9955993/a4670d66-5e27-11e5-96d5-01afa978f39c.png[small]
 link:http://itunes.apple.com/sg/app/soyjoy-2-mins-of-soy-goodness/id463240587?mt=8[Mobile game]
 
-image::https://cloud.githubusercontent.com/assets/14326240/9955994/a6a59c0a-5e27-11e5-9409-364585fdce09.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9955994/a6a59c0a-5e27-11e5-9409-364585fdce09.png[small]
 link:http://apps.facebook.com/two-min-soy-goodness/[Facebook App game]
 
-image::https://cloud.githubusercontent.com/assets/14326240/9955998/a838b6ec-5e27-11e5-933b-8e057e7e4cbf.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9955998/a838b6ec-5e27-11e5-933b-8e057e7e4cbf.png[small]
 link:http://agency-showcase.com/soyjoy/pop.html[P.O.P]
 
-image::https://cloud.githubusercontent.com/assets/14326240/9955999/aafaf82c-5e27-11e5-86df-cb6989ad23fc.png[Large]
+image::https://cloud.githubusercontent.com/assets/14326240/9955999/aafaf82c-5e27-11e5-86df-cb6989ad23fc.png[small]
 link:http://agency-showcase.com/soyjoy/sticker.html[Sticker on Pack]
 
 http://mirumsg.github.io/agencyshowcase/hubpress/#/posts
