@@ -1,5 +1,5 @@
 = Gardens by the Bay
-:hp-image: https://cloud.githubusercontent.com/assets/1509874/9870375/f58feada-5bbd-11e5-8662-ff990b6a501e.png
+:hp-image: https://cloud.githubusercontent.com/assets/1509874/10097094/394d4db0-63a9-11e5-8746-3f5d51c5e8f8.jpg
 :hp-tags: GBB,sitebuilt
 
 image::https://cloud.githubusercontent.com/assets/14326240/9985401/0fdeae7c-605e-11e5-9977-1b8e156644e1.png[Normal]
