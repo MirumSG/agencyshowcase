@@ -1,5 +1,5 @@
 = HP - Because The Right Color Matters
-:hp-image: http://www.jwt.com/blog/wp-content/uploads/2013/09/sg-celebrating-great-service1-300x280.png
+:hp-image: https://cloud.githubusercontent.com/assets/14326240/10155367/c28f3ce6-66a6-11e5-8ce4-33e085e3cff6.jpg
 
 == The Challenge 
 Creative professionals face a pressing problem. The colour they see on screen is never the same on print. To fix this, HP offered business owners a free 30-day trial of the HP DreamColor Suite, an integrated solution that delivers colour accuracy from vision to production. The challenge was to convince and encourage them to sign up for it..
