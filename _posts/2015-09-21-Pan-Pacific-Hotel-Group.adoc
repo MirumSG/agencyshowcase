@@ -8,7 +8,7 @@ Project: Corporate Website Designs
 image::https://cloud.githubusercontent.com/assets/14326240/9985356/3641b772-605d-11e5-9cc6-5a7cbcdbadf6.png[Large]
 
 == Client Background
-Pan Pacific Hotel Group is a leading hospitability group that manages 2 brands – Pan Pacific and Park Royal, with hotels, resorts and service apartments under their portfolio. PPHG’s properties are based across Australia and Asia.
+Pan Pacific Hotel Group is a leading hospitability group that manages two brands – Pan Pacific and Park Royal, with hotels, resorts and service apartments under their portfolio. PPHG’s properties are based across Australia and Asia.
 
 == The Idea
 The Pan Pacific Hotel Group manages two brands – Pan Pacific and Park Royal. The idea was to design and build new corporate websites for each brand. Utilising Adobe AEM 5.5 as a content management solution, the sites were to be compatible for both desktop and mobile use.
