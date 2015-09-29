@@ -1,40 +1,27 @@
 = MasterCard Moments / Priceless Cities
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/9985208/cf000d46-6059-11e5-87df-db0e6f5d1195.jpg
-:hp-tags: MasterCard,sitebuilt
+:hp-tags: MasterCard
+
+Client: Mastercard
+Project: Central Platform Development
 
 image::https://cloud.githubusercontent.com/assets/14326240/9985221/22905498-605a-11e5-9aca-151027ce5b7f.png[Large]
 
 == Client Background
 To instill preference and encourage card usage, MasterCard APMEA (Asia Pacific, Middle East, Asia) works with merchant partners and issuers to obtain promotions and incentives for MasterCard cardholders. These offers are featured on the respective MasterCard local market websites or campaign microsites.
 
-== The Objective
-To develop a central platform with standardized offer formats with aim to:
-* Improve efficiency of cross-border, cross-department sharing of content and campaign information 
-* Reduce redundancy in development work currently undergone by local MasterCard offices
-* Shorten time required to launch new campaign sites by developing sets of templates, function and components that can be reused for different sites
-
 == The Challenge 
-* Project has multiple stakeholders with the need to capture permutations of platform requirements (MasterCard internal stakeholders are the global office, regional office and respective local offices (18 key markets in the APMEA region))
-* Platform and sites supported by the platform required to support all language and cultural requirements within the region (eg. China, Japan, Korea, Middle East) 
+With 18 internal stakeholders, including the global office, regional office and respective local offices, MasterCard needed to efficiently synchronise and capture the different stakeholder requirements across a central platform. The platform and supported sites also had to support all regional language and cultural requirements from countries such as China, Japan, Korea and the Middle East.
 
-== Mirum's Role
-.	Developed central platform on Adobe CQ5.5 
-.	Developed and launched 6 sites within 6 months; of which 3 of the sites are in Simplified Chinese and Japanese
-.	Various Integrations:
-..	Integration with Omniture SiteCatalyst for tracking, analysis and dashboard
-..	Integration with Traction for email marketing
-..	Integration with social networking sites Facebook and Twitter (Weibo and Ren Ren for China websites)
-.	Definition and set-up of Workflow and ACL for different user accounts which includes regional MasterCard clients, local MasterCard clients and access for their respective agencies
-.	Developed custom solution that allows generation of XML feeds into and out of CQ5.5 platform 
-.	Provide consultancy and training to agencies and local clients for CQ5.5 
-.	Optimization of platform including optimizing website taxonomy, responsive web and dymanic content
+== The Idea
+Mirum developed a central platform on Adobe CQ5.5. Integrated with various site management and email marketing tools, the platform was set up to improve cross-border and cross-departments efficiency in sharing content and campaign information.
 
-== Client Values & Benefits
-* Intelligent and user-friendly platform to streamline internal processes and avoid redundancy
-* Ability to be quick and nimble in launching new campaign sites
-* Content standardisation and localisation by country and language
-* Content editor allows users to easily publish pages without IT support
-* Robust website analytics allows clients/agencies to adapt to the needs of the market and end-users.
+Aside from the platform, we also launched 6 sites within 6 months (3 of which are in Simplified Chinese and Japanese). We developed and set up Workflow, ACL, as well as a custom solution for XML feed generation into and out of the platform, and we optimised the platform for website taxonomy, responsive web and dynamic content. We followed through with CQ5.5 consultancy and training to agencies and local clients.
+
+== The Results
+The intelligent and user-friendly platform now streamlines internal processes, helping to remove redundancies and speeds up new campaign site launches. Content is also standardised and localised by country and language, with the content editor allowing users to easily publish pages without IT support. 
+
+In addition, robust website analytics allow clients and agencies to adapt to market and end-users’ needs.
 
 link:http://www.pricelessbeijing.com[Vist Beijing Site] +
 link:http://www.pricelesssydney.com.au[Vist Sydney Site] +
