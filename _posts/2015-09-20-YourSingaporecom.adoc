@@ -1,5 +1,5 @@
 = YourSingapore.com
-:hp-image: https://cloud.githubusercontent.com/assets/14326240/9954318/a7d367cc-5e1a-11e5-971a-3d4d6093ad8d.jpg
+:hp-image: revamp2014_1280x670.jpg
 :hp-tags: STB,sitebuilt,mobilesite,aem
 
 Client: Singapore Tourism Board +
