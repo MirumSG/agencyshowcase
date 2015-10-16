@@ -1,5 +1,5 @@
 = Malaysia Airlines
-:hp-image: /images/malaysia-airline_1280x670.jpg
+:hp-image: malaysia-airline_1280x670.jpg
 :hp-tags: MAS,sitebuilt
 
 Client: Malaysia Airlines +
