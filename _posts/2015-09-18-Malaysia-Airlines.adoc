@@ -5,4 +5,4 @@
 Client: Malaysia Airlines +
 Project: Malaysia Airlines Site Build
 
-link:http://www.malaysiaairlines.com/hq/en/home.aspx[Vist Site]
+link:http://www.malaysiaairlines.com/my/en.html[Vist Site]
