@@ -20,6 +20,6 @@ PPHG is now fronted by corporate websites befitting the group’s position as in
 
 link:https://www.panpacific.com[Visit the Pan Pacific Site]
 link:https://www.parkroyalhotels.com[Visit the Park Royal Site]
-link:https://m.panpacific.com[Visit the Pan Pacific Mobile Site]
-link:https://m.parkroyalhotels.com[Visit the Pan Pacific Mobile Site]
+link:https://m.panpacific.com/en.html[Visit the Pan Pacific Mobile Site]
+link:https://m.parkroyalhotels.com[Visit the Park Royal Mobile Site]
 
