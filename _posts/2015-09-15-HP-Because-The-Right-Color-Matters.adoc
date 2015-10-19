@@ -15,4 +15,4 @@ Engaging stories were told in the form of multi-frame banners as well as an ente
 == The Effect 
 The entertainment paid off. Although launched in only three countries - Australia, New Zealand and India, there were close to 15,000 site visits. Close to 100 companies signed up for the trial. An impressive feat for a niche B2B campaign that involves a product of substantial investment.
 
-image::https://cloud.githubusercontent.com/assets/14326240/10568867/6518d55e-7650-11e5-82e9-f2c24fb0b752.png[large]
+image::https://cloud.githubusercontent.com/assets/14326240/10568867/6518d55e-7650-11e5-82e9-f2c24fb0b752.png[small]
