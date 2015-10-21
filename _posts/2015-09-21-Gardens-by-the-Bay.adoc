@@ -2,7 +2,7 @@
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/10154854/3ee3cabc-669f-11e5-974a-0cf790cceb20.jpg
 :hp-tags: GBB
 
-Client: Gardens by the Bay
+Client: Gardens by the Bay +
 Project: Portal Design
 
 image::https://cloud.githubusercontent.com/assets/14326240/9985401/0fdeae7c-605e-11e5-9977-1b8e156644e1.png[Large]
