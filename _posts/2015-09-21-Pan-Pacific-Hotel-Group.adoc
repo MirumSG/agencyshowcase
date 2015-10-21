@@ -2,7 +2,7 @@
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/10154852/3c9acfbc-669f-11e5-99a1-a16cfe30abc2.jpg
 :hp-tags: PPHG
 
-Client: Pan Pacific Hotel Group
+Client: Pan Pacific Hotel Group +
 Project: Corporate Website Designs
 
 image::https://cloud.githubusercontent.com/assets/14326240/9985356/3641b772-605d-11e5-9cc6-5a7cbcdbadf6.png#normal[PPHG]
