@@ -21,6 +21,4 @@ Cntent was published regularly under the buckets of Motivate, Educate, and Act, 
 ce. +
 A platform for the retirement conversation - The site features an effective mix of long form and short form articles, profiles, factoids, and in the future—videos. 
 
-image::https://cloud.githubusercontent.com/assets/14326240/10627846/e05d0054-77f0-11e5-9594-482659118c63.png[Large]
-
 link:http://www.hsbc.com.sg/1/2/personal/wealth/retirement/future-of-retirement-tool[Vist Site]
