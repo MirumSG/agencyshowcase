@@ -8,8 +8,6 @@ Project: Future of Retirement: Demonstrating Thought Leadership
 == Client Background
 Every year since 2005, HSBC has published The Future of Retirement, an independent study on global retirement trends. Yet as competitors like DBS and OCBC venture into this lucrative sphere, HSBC wanted to reaffirm its position in the Singapore market as a thought leader in retirement planning.
 
-image::https://cloud.githubusercontent.com/assets/14326240/10627801/85a77536-77f0-11e5-83b7-f185fd535b16.png[Large]
-
 == The Objective
 To drive awareness and conversion of HSBC Premier retirement products and services by leveraging on content marketing.
 
@@ -21,4 +19,6 @@ Cntent was published regularly under the buckets of Motivate, Educate, and Act, 
 ce. +
 A platform for the retirement conversation - The site features an effective mix of long form and short form articles, profiles, factoids, and in the future—videos. 
 
-link:http://www.hsbc.com.sg/1/2/personal/wealth/retirement/future-of-retirement-tool[Vist Site]
+link:http://www.hsbc.com.sg/1/2/hsbcpremier/passions-never-retire[Vist Site]
+
+image::https://cloud.githubusercontent.com/assets/14326240/10686288/27f90d40-7995-11e5-8082-731caf7a70b3.png[Large]
