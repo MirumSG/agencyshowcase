@@ -1,4 +1,4 @@
-= STB BTMICE Site Revamp Video
+= STB BTMICE
 :hp-image: https://cloud.githubusercontent.com/assets/14326240/10627547/870dc75c-77ed-11e5-8d52-03f328026d4b.jpg
 :hp-tags: STB, BTMICE
 
