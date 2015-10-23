@@ -11,14 +11,14 @@ Every year since 2005, HSBC has published The Future of Retirement, an independe
 == The Objective
 To drive awareness and conversion of HSBC Premier retirement products and services by leveraging on content marketing.
 
+image::https://cloud.githubusercontent.com/assets/14326240/10686414/764a41f2-7996-11e5-8b4d-f927d5459c92.png[Large]
+
 == The Idea
 We came up with a Future of Retirement microsite that explored the themes in the FoR report in greater detail.
 
 == The Result
-Cntent was published regularly under the buckets of Motivate, Educate, and Act, ensuring that users left the site feeling empowered to act on their future and to reach out to HSBC for wealth planning advice.
-ce. +
+Cntent was published regularly under the buckets of Motivate, Educate, and Act, ensuring that users left the site feeling empowered to act on their future and to reach out to HSBC for wealth planning advice. +
 A platform for the retirement conversation - The site features an effective mix of long form and short form articles, profiles, factoids, and in the future—videos. 
 
 link:http://www.hsbc.com.sg/1/2/hsbcpremier/passions-never-retire[Vist Site]
 
-image::https://cloud.githubusercontent.com/assets/14326240/10686288/27f90d40-7995-11e5-8082-731caf7a70b3.png[Large]
