@@ -1,0 +1,26 @@
+= HSBC Premier 
+:hp-image: https://cloud.githubusercontent.com/assets/14326240/10627548/8713e7ea-77ed-11e5-953d-4c41f930fc16.jpg
+:hp-tags: HSBC, Premier
+
+Client: The Hongkong and Shanghai Banking Corporation (HSBC) +
+Project: Future of Retirement: Demonstrating Thought Leadership
+
+== Client Background
+Every year since 2005, HSBC has published The Future of Retirement, an independent study on global retirement trends. Yet as competitors like DBS and OCBC venture into this lucrative sphere, HSBC wanted to reaffirm its position in the Singapore market as a thought leader in retirement planning.
+
+image::https://cloud.githubusercontent.com/assets/14326240/10627801/85a77536-77f0-11e5-83b7-f185fd535b16.png[Large]
+
+== The Objective
+To drive awareness and conversion of HSBC Premier retirement products and services by leveraging on content marketing.
+
+== The Idea
+We came up with a Future of Retirement microsite that explored the themes in the FoR report in greater detail.
+
+== The Result
+Cntent was published regularly under the buckets of Motivate, Educate, and Act, ensuring that users left the site feeling empowered to act on their future and to reach out to HSBC for wealth planning advice.
+ce. +
+A platform for the retirement conversation - The site features an effective mix of long form and short form articles, profiles, factoids, and in the future—videos. 
+
+image::https://cloud.githubusercontent.com/assets/14326240/10627846/e05d0054-77f0-11e5-9594-482659118c63.png[Large]
+
+link:http://www.hsbc.com.sg/1/2/personal/wealth/retirement/future-of-retirement-tool[Vist Site]
