@@ -1,5 +1,5 @@
 = STB BTMICE
-:hp-image: https://cloud.githubusercontent.com/assets/14326240/10627547/870dc75c-77ed-11e5-8d52-03f328026d4b.jpg
+:hp-image: https://cloud.githubusercontent.com/assets/14326240/11204279/127da136-8d38-11e5-8475-9edaecc40b65.jpg
 :hp-tags: STB, BTMICE
 
 Client: Singapore Exhibition & Convention Bureau (SECB)/ Singapore Tourism Board Business Travel and Meetings, Incentive Travel, Conventions and Exhibitions (STB BTMICE) +
@@ -21,4 +21,4 @@ Ensuring the video effectively communicates the key highlights of the newly reva
 == The Concept
 The video idea is developed in line with the overall STB BTMICE branding and newly designed website. It uses kinetic animation that mixes motion and text to amplify the key highlights of the site. Subtle sound effects, ambient music as well as an upbeat voice-over were added to enhance the whole video experience.
 
-link:http://www.yoursingapore.com/mice[Vist Site]
+link:http://www.yoursingapore.com/mice[Visit Site]
